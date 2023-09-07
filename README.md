@@ -1,6 +1,8 @@
 # Arquitectura de computadores | Grupo Kriptoniticas
 Grupo para la clase de arquitectura de computadores
 
+Tema de interés para el proyecto: Cryptography in the Cloud
+
 
 
 
