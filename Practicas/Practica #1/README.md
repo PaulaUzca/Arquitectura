@@ -14,7 +14,7 @@ Como se observa en los archivos de la practica, a partir de la compuerta NAND po
 |    1    |    0    |   1    |
 |    1    |    1    |   0    |
 
-<img src="https://d1hj4to4g9ba46.cloudfront.net/questions/711395_675375_ans_7e59c67d521d46e18b5d59a6a913e5b6.png" width="200px" height="200px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/NAND_ANSI.svg/1280px-NAND_ANSI.svg.png" width="200px" height="200px">
 
 ## AND Gate
 
@@ -33,7 +33,7 @@ La compuerta AND produce un output true solo si ambos de sus inputs son true
 
 Esta compuerta realiza las operaciones AND a inputs de 16 bits, ya que es muy extensa no mostraremos la tabla de verdad, pero sigue la misma lógica de la compuerta AND.
 
-<img src="https://www.researchgate.net/publication/2409285/figure/fig6/AS:887797611257863@1588678853710/Efficient-AND16-implementation-for-Virtex-FPGA.png" width="200px" height="300px">
+<img src="https://nand2tetris-hdl.github.io/img/or8.png" width="200px" height="300px">
 
 ## DMux Gate
 
@@ -148,4 +148,4 @@ The Or8Way gate performs the OR operation on eight inputs.
 | 1 | 0 |      1       |
 | 1 | 1 |      0       |
 
-<img src="https://www.researchgate.net/publication/291014115/figure/fig3/AS:415620106604545@1476102963059/XOR-gate-graphical-symbol-and-implementation.png" width="200px" height="200px">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Xor-gate-en.svg/2560px-Xor-gate-en.svg.png" width="200px" height="200px">
