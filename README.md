@@ -15,6 +15,7 @@ Tema de interés para el proyecto: Cryptography in the Cloud
 ### Integrantes
 
 ### 🐇​ Silvia Cárdenas | [@silviac43](https://github.com/silviac43) 
+Estudiante de sexto semestre de ingeniería de sistemas. Tengo 20 años, la rama que más me llama la atención es la de ciberseguridad y también lo relacionado con el Cloud. Mis mayores pasatiempos son los videojuegos y ver series.
 
 ### 🐿️ Valentina Alvarez | [@valentinav03](https://github.com/valentinav03)
 
