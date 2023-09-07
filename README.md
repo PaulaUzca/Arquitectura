@@ -16,11 +16,12 @@ Tema de interés para el proyecto: Cryptography in the Cloud
 
 ### 🐇​ Silvia Cárdenas | [@silviac43](https://github.com/silviac43) 
 <img src="https://github.com/PaulaUzca/Arquitectura/blob/main/Integrantes/silvia.jpeg" width="300px" height="350px">
-
 Estudiante de sexto semestre de ingeniería de sistemas. Tengo 20 años, la rama que más me llama la atención es la de ciberseguridad y también lo relacionado con el Cloud. Mis mayores pasatiempos son los videojuegos y ver series.
 
-### 🐿️ Valentina Alvarez | [@valentinav03](https://github.com/valentinav03)
+### 🦋​ Valentina Álvarez | [@valentinav03](https://github.com/valentinav03)
 <img src="https://github.com/PaulaUzca/Arquitectura/blob/main/Integrantes/valentina.jpeg" width="300px" height="350px">
+
+
 
 ### 🦎​ Paula Uzcátegui | [@PaulaUzca](https://github.com/PaulaUzca)
 <img src="https://github.com/PaulaUzca/Arquitectura/blob/main/Integrantes/paula.jpeg" width="350px" height="220px">
