@@ -20,7 +20,7 @@ Estudiante de sexto semestre de ingeniería de sistemas. Tengo 20 años, la rama
 
 ### 🦋​ Valentina Álvarez | [@valentinav03](https://github.com/valentinav03)
 <img src="https://github.com/PaulaUzca/Arquitectura/blob/main/Integrantes/valentina.jpeg" width="300px" height="350px">
-Estudiante de sexto semestre de ingeniería de sistemas. Tengo 19 años, los temas que más me interesan involucran el análisis de datos, la inteligencia artificial, el desarrollo web y la administración de la información. Soy entusiasta del conocimiento; me encantan los idiomas, las artes y la lectura en temas de historia y biomedicina.
+Estudiante de sexto semestre de ingeniería de sistemas. Tengo 19 años, los temas que más me interesan involucran el análisis de datos, la inteligencia artificial, el desarrollo web y la administración de la información. Soy entusiasta del conocimiento; me encantan los idiomas y las artes.
 
 
 ### 🦎​ Paula Uzcátegui | [@PaulaUzca](https://github.com/PaulaUzca)
