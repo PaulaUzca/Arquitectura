@@ -14,7 +14,7 @@ Realiza la adición de dos números de un solo bit. El output sum representa el 
 | 1 | 1 |  0  |   1   |
 
 
-<img src="https://www.researchgate.net/publication/325747900/figure/fig1/AS:650312587149323@1532058011566/A-half-adder-constructed-with-a-XOR-and-AND-gate.png" width="300px" height="100px">
+<img src="https://file.notion.so/f/f/e728feb1-a068-480f-9b20-5ec9ccfa0e1c/2ad109a2-227b-40d8-9932-c182012aa30f/Untitled.png?id=ef6b17aa-1bb4-4071-8bc5-2957675c42a6&table=block&spaceId=e728feb1-a068-480f-9b20-5ec9ccfa0e1c&expirationTimestamp=1695340800000&signature=_hAqjtKoP0Q_nyg5kQpnZN_aAEF36uVpvbZeMfBu2_M&downloadName=Untitled.png" width="300px" height="100px">
 
 ## Full adder
 
