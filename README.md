@@ -9,6 +9,7 @@ Tema de interés para el proyecto: Cryptography in the Cloud
 ### Prácticas
 ⭐​ [Practica #1](https://github.com/PaulaUzca/Arquitectura/tree/main/Practicas/Practica%20%231)
 
+
 ⭐​ [Practica #2](https://github.com/PaulaUzca/Arquitectura/tree/main/Practicas/Practica%20%232)
 
 
