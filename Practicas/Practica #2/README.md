@@ -14,7 +14,7 @@ Realiza la adición de dos números de un solo bit. El output sum representa el 
 | 1 | 1 |  0  |   1   |
 
 
-<img src="https://file.notion.so/f/f/e728feb1-a068-480f-9b20-5ec9ccfa0e1c/2ad109a2-227b-40d8-9932-c182012aa30f/Untitled.png?id=ef6b17aa-1bb4-4071-8bc5-2957675c42a6&table=block&spaceId=e728feb1-a068-480f-9b20-5ec9ccfa0e1c&expirationTimestamp=1695340800000&signature=_hAqjtKoP0Q_nyg5kQpnZN_aAEF36uVpvbZeMfBu2_M&downloadName=Untitled.png" width="300px" height="100px">
+<img src="https://www.engineersgarage.com/wp-content/uploads/2020/09/half-adder-ckt.png" width="300px" height="100px">
 
 ## Full adder
 
@@ -40,19 +40,18 @@ La lógica del full adder esta diseñada de forma que se puedan sumar varios bit
 <img src="https://www.build-electronic-circuits.com/wp-content/uploads/2022/10/fullAdder2-1024x520.png" width="400px" height="200px">
 
 ## Add16 
+Suma dos numeros de 16 bits
 
-
-<img src="" width="100px" height="100px">
+<img src="https://www.electronicshub.org/wp-content/uploads/2015/06/4-bit-adder.jpg" width="400px" height="100px">
 
 ## Inc16
+Incrementa un input de 16 bits en 1
 
-
-
-<img src="" width="100px" height="100px">
+<img src="https://media.geeksforgeeks.org/wp-content/uploads/20210429115210/updatedIncre.jpeg" width="700px" height="300px">
 
 
 ## ALU
-
+Unidad Aritmética Lógica, también conocida como ALU (siglas en inglés de arithmetic logic unit), es un circuito digital que realiza operaciones aritméticas (suma, resta) y operaciones lógicas (SI, Y, O, NO) entre los valores de los argumentos (uno o dos)
 
 <img src="" width="100px" height="100px">
 
