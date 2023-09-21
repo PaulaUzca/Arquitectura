@@ -55,7 +55,7 @@ Unidad Aritmética Lógica, también conocida como ALU (siglas en inglés de ari
 
 Utilizando Multiplexores y algunos otros chips es posible construir este tipo de ALU, llamdo Hack ALU
 
-<img src="https://time-product-5d9.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fe728feb1-a068-480f-9b20-5ec9ccfa0e1c%2F9b29db8c-1665-4a11-8461-8c22ccddfd06%2Fimagen.jpeg?table=block&id=84fa969a-ca95-4dd2-b835-beb1a892c549&spaceId=e728feb1-a068-480f-9b20-5ec9ccfa0e1c&width=2000&userId=&cache=v2" width="100px" height="100px">
+<img src="https://time-product-5d9.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2Fe728feb1-a068-480f-9b20-5ec9ccfa0e1c%2F9b29db8c-1665-4a11-8461-8c22ccddfd06%2Fimagen.jpeg?table=block&id=84fa969a-ca95-4dd2-b835-beb1a892c549&spaceId=e728feb1-a068-480f-9b20-5ec9ccfa0e1c&width=2000&userId=&cache=v2" width="750px" height="350px">
 
 
 
