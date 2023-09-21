@@ -37,12 +37,12 @@ La lógica del full adder esta diseñada de forma que se puedan sumar varios bit
 | 1 | 1 |  1  |  1  |  1   |
 
 
-<img src="https://www.build-electronic-circuits.com/wp-content/uploads/2022/10/fullAdder2-1024x520.png" width="400px" height="200px">
+<img src="https://www.build-electronic-circuits.com/wp-content/uploads/2022/10/fullAdder2-1024x520.png" width="500px" height="200px">
 
 ## Add16 
 Suma dos numeros de 16 bits
 
-<img src="https://www.electronicshub.org/wp-content/uploads/2015/06/4-bit-adder.jpg" width="400px" height="100px">
+<img src="https://www.electronicshub.org/wp-content/uploads/2015/06/4-bit-adder.jpg" width="700px" height="300px">
 
 ## Inc16
 Incrementa un input de 16 bits en 1
@@ -51,9 +51,11 @@ Incrementa un input de 16 bits en 1
 
 
 ## ALU
-Unidad Aritmética Lógica, también conocida como ALU (siglas en inglés de arithmetic logic unit), es un circuito digital que realiza operaciones aritméticas (suma, resta) y operaciones lógicas (SI, Y, O, NO) entre los valores de los argumentos (uno o dos)
+Unidad Aritmética Lógica, también conocida como ALU (siglas en inglés de arithmetic logic unit), es un circuito digital que realiza operaciones aritméticas (suma, resta) y operaciones lógicas (SI, Y, O, NO) entre los valores de los argumentos (uno o dos).
 
-<img src="" width="100px" height="100px">
+Utilizando Multiplexores y algunos otros chips es posible construir este tipo de ALU, llamdo Hack ALU
+
+<img src="https://file.notion.so/f/f/e728feb1-a068-480f-9b20-5ec9ccfa0e1c/9b29db8c-1665-4a11-8461-8c22ccddfd06/imagen.jpeg?id=84fa969a-ca95-4dd2-b835-beb1a892c549&table=block&spaceId=e728feb1-a068-480f-9b20-5ec9ccfa0e1c&expirationTimestamp=1695427200000&signature=p_iCzFq21ETjvb4Bxh-Ua8T4A7kPNIAuiMw9gLXaFrY&downloadName=imagen.jpeg" width="100px" height="100px">
 
 
 
