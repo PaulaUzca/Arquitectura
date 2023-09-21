@@ -14,7 +14,7 @@ Realiza la adición de dos números de un solo bit. El output sum representa el 
 | 1 | 1 |  0  |   1   |
 
 
-<img src="https://www.engineersgarage.com/wp-content/uploads/2020/09/half-adder-ckt.png" width="350px" height="200px">
+<img src="https://www.engineersgarage.com/wp-content/uploads/2020/09/half-adder-ckt.png" width="350px" height="250px">
 
 ## Full adder
 
