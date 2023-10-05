@@ -41,7 +41,7 @@ Independientemente del tamaño de la RAM(n),
 cada registro seleccionado al azar puede ser
 accedido de forma instantánea a más o menos la misma velocidad.
 
-<img src="https://i.imgur.com/0iIJTLN.jpeg" width="500px" height="700px">
+<img src="https://i.imgur.com/0iIJTLN.jpeg" width="500px" height="600px">
 
 ## RAM64, RAM 512, RAM4K, RAM16K
 
