@@ -17,7 +17,7 @@ Un Bit o también conocido como 'binary cell' es un registro diseñado para alma
 *Load, que habilita la celda para la escritura.
 *Output, que emite el estado actual de la celda.
 
-<img src="https://i.stack.imgur.com/XjmZNm.png" width="320px" height="160px">
+<img src="https://i.imgur.com/73so72z.jpeg" width="320px" height="160px">
 
 
 | Time | In | DFF In | Load | Out |
