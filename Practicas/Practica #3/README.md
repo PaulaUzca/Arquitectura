@@ -27,8 +27,6 @@ Un Bit o también conocido como 'binary cell' es un registro diseñado para alma
 | 1+   | 0  | 1      | 0    | 1   |
 | 2    | 0  | 1      | 0    | 1   |
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcs.stackexchange.com%2Fquestions%2F74000%2F1-bit-register-with-data-flip-flop-doesnt-store-bit&psig=AOvVaw1JMwecNNWcA0eCahf-3fYY&ust=1696612542425000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDbmZS034EDFQAAAAAdAAAAABAE" width="300px" height="100px">
-
 ## Multi-bit Register
 
 
@@ -36,14 +34,14 @@ Es como el bit-register pero para más bits. En nuestro caso construimos un Regi
 
 En la imagen se muestra un multi-bit register de 4 bits (porque el de 16 bits es muy grande para mostrarlo en una imagen)
 
-<img src="https://3.bp.blogspot.com/_IAOnao4zJIo/TJhLD_mxWDI/AAAAAAAAABI/ZsQ4jvxcYvs/s1600/SISO.gif" width="500px" height="100px">
+<img src="https://3.bp.blogspot.com/_IAOnao4zJIo/TJhLD_mxWDI/AAAAAAAAABI/ZsQ4jvxcYvs/s1600/SISO.gif" width="600px" height="200px">
 
 ## RAM8
 Independientemente del tamaño de la RAM(n),
 cada registro seleccionado al azar puede ser
 accedido de forma instantánea a más o menos la misma velocidad.
 
-<img src="https://i.imgur.com/0iIJTLN.jpeg" width="100px" height="100px">
+<img src="https://i.imgur.com/0iIJTLN.jpeg" width="500px" height="700px">
 
 ## RAM64, RAM 512, RAM4K, RAM16K
 
@@ -56,7 +54,7 @@ Es el que se encarga de llevar la cuenta de las instrucciones que se van ejecuta
 
 Para esto se vale de los chips de adicionar y de un registro para mantener el estado de la instrucción en que se encuentra.
 
-<img src="https://i.stack.imgur.com/w1RXp.png" width="100px" height="100px">
+<img src="https://i.stack.imgur.com/w1RXp.png" width="500px" height="300px">
 
 
 
