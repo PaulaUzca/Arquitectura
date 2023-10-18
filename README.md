@@ -13,6 +13,11 @@ Tema de interés para el proyecto: Cryptography in the Cloud
 ⭐​ [Practica #2](https://github.com/PaulaUzca/Arquitectura/tree/main/Practicas/Practica%20%232)
 
 
+⭐​ [Practica #3](https://github.com/PaulaUzca/Arquitectura/tree/main/Practicas/Practica%20%233)
+
+
+⭐​ [Practica #4](https://github.com/PaulaUzca/Arquitectura/tree/main/Practicas/Practica%20%234)
+
 ### Integrantes
 
 ### 🐇​ Silvia Cárdenas | [@silviac43](https://github.com/silviac43) 
