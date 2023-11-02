@@ -11,14 +11,11 @@ Reglas del espacio de direcciones:
 - El acceso a la dirección 16384 a 24575 resulta en el acceso al mapa de memoria de la pantalla.
 - El acceso a la dirección 24576 resulta en el acceso al mapa de memoria del teclado.
 
-![Memoria]([https://i.imgur.com/0iIJTLN.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fconcepto.de%2Fmemoria-ram%2F&psig=AOvVaw3spqMmt_s_DxN-zP7AQkgf&ust=1699050718444000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODVh6avpoIDFQAAAAAdAAAAABAE))
-
 ## CPU
 La Unidad Central de Procesamiento (CPU) de Hack analiza el código binario en la entrada de instrucción y lo ejecuta de acuerdo con la especificación del lenguaje de máquina Hack. En el caso de una instrucción C, calcula la función especificada por la instrucción. Si la instrucción especifica leer un valor de memoria, se espera que la entrada inM contenga este valor. Si la instrucción especifica escribir un valor en la memoria, establece la salida outM en este valor, establece la salida addressM en la dirección de destino y activa la salida writeM.
 
 Si la entrada reset es 0, calcula la dirección de la siguiente instrucción y establece la salida pc en ese valor. Si la entrada reset es 1, establece pc en 0.
 
-![CPU]([https://i.stack.imgur.com/w1RXp.png](https://www.pcworld.com/wp-content/uploads/2023/04/intel-cpu-rocket-lake-rear.jpg?quality=50&strip=all))
 
 ## Computadora
 La computadora HACK consta de CPU, ROM y RAM. Cuando reset es 0, se ejecuta el programa almacenado en la ROM. Cuando reset es 1, se reinicia la ejecución del programa. Para comenzar a ejecutar el programa actualmente cargado, establezca reset en 1 y luego vuelva a establecerlo en 0. Dependiendo del código del programa, la pantalla puede mostrar alguna salida, el usuario puede ser invitado a ingresar alguna entrada mediante el teclado, o el programa puede realizar algún procesamiento.
