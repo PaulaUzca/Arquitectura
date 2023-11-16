@@ -11,10 +11,10 @@ El ensamblador que se realizó se compone de tres módulos: el programa principa
 El programa principal se construyó en dos etapas. En primer lugar, un ensamblador básico que traduzca programas sin referencias simbólicas. Luego, se amplió el ensamblador para manejar referencias simbólicas.
 
 ## Parser 
-Desarrollamos un parser capaz de analizar instrucciones del lenguaje de ensamblaje, identificar etiquetas y traducir mnemotécnicos a código binario equivalente.
+Desarrollamos un parser cuya función es esencial para la fase de análisis sintáctico del ensamblador, convirtiendo las instrucciones de ensamblaje en código binario ejecutable. Además, maneja la conversión de instrucciones de tipo A, que pueden ser tanto números como símbolos, y las instrucciones de tipo C, que involucran destinos, cálculos y saltos.
 
 ## Tabla de Símbolos
-Implementamos una tabla de símbolos para gestionar las direcciones de memoria asociadas con etiquetas y variables simbólicas.
+Implementamos una tabla de símbolos fundamental para asignar direcciones a etiquetas y variables en el código de ensamblaje. Permite que el ensamblador asigne direcciones únicas a las etiquetas y variables a medida que procesa el código, lo que facilita la generación del código binario final. 
 
 
 Asimismo, se adjuntan varios programas de prueba, desde simples sin referencias simbólicas hasta programas más complejos como un juego de Pong. Estos programas sirven como casos de prueba para asegurar que el ensamblador funciona correctamente.
