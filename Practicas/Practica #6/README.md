@@ -1,5 +1,10 @@
 # ENSAMBLADOR
 
+El lenguaje ensamblador actúa como el lenguaje intermedio entre el lenguaje de máquina y los lenguajes de programación de alto nivel. Es más fácil de comprender y utilizar en comparación con el lenguaje de máquina; sin embargo, es más complejo que los lenguajes de programación de alto nivel. Ofrece un control directo sobre el hardware y la capacidad de optimizar el código. 
+
+![Texto Alternativo](https://www.techprofree.com/wp-content/uploads/2019/11/Capture.png)
+
+
 Para este proyecto, hemos diseñado y construido un ensamblador en el lenguaje de programación de C++, capaz de traducir programas escritos en lenguaje de ensamblaje Hack a código máquina binario ejecutable en la plataforma Hack. El lenguaje de ensamblaje Hack proporciona una
 una demostración concisa de los principios clave de la ingeniería de software utilizados en la
 construcción de cualquier ensamblador. Este mismo genera código binario final a partir de las instrucciones de ensamblaje procesadas y las direcciones de memoria calculadas.
