@@ -1,9 +1,8 @@
 # Arquitectura de computadores | Grupo Kriptoniticas
 Grupo para la clase de arquitectura de computadores
 
-Tema de interés para el proyecto: Cryptography in the Cloud
-
-
+### Proyecto
+⭐​[Criptografía en el mundo post-cuántico](https://github.com/PaulaUzca/Arquitectura/tree/main/Proyecto)
 
 
 ### Prácticas
